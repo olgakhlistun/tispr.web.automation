@@ -7,7 +7,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
-public class test {
+public class test { 
 
 	public static void main(String[] args) throws InterruptedException {
 		//Initialize webdriver
